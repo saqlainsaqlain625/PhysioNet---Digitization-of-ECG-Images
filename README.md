@@ -45,7 +45,7 @@ Predicts ECG image source type to apply better preprocessing and improve segment
 | Stage 2 | Signal Reconstruction Network |
 
 ---
-
+   
 ## Kaggle Performance
 
 ## 🏆 Kaggle Competition Score
